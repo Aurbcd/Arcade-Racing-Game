@@ -1,0 +1,533 @@
+{
+    "ArcadeCar": {
+        "checkpoints": [
+            {
+                "steps": 99979,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-99979.onnx",
+                "reward": null,
+                "creation_time": 1791632686.8025715,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-99979.pt"
+                ]
+            },
+            {
+                "steps": 199963,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-199963.onnx",
+                "reward": 0.14369801059365273,
+                "creation_time": 1791632782.9048257,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-199963.pt"
+                ]
+            },
+            {
+                "steps": 299962,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-299962.onnx",
+                "reward": 1.356109093874693,
+                "creation_time": 1791632883.5490549,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-299962.pt"
+                ]
+            },
+            {
+                "steps": 399985,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-399985.onnx",
+                "reward": 1.1649302868172526,
+                "creation_time": 1791632993.3092363,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-399985.pt"
+                ]
+            },
+            {
+                "steps": 499898,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-499898.onnx",
+                "reward": 0.09079435414501599,
+                "creation_time": 1791633108.1705573,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-499898.pt"
+                ]
+            },
+            {
+                "steps": 599981,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-599981.onnx",
+                "reward": 1.4895658639983997,
+                "creation_time": 1791633233.4292278,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-599981.pt"
+                ]
+            },
+            {
+                "steps": 699953,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-699953.onnx",
+                "reward": 0.8952811142329925,
+                "creation_time": 1791633359.7115097,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-699953.pt"
+                ]
+            },
+            {
+                "steps": 799918,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-799918.onnx",
+                "reward": 1.8801294136792421,
+                "creation_time": 1791633491.7086725,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-799918.pt"
+                ]
+            },
+            {
+                "steps": 899977,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-899977.onnx",
+                "reward": 0.9485486503690481,
+                "creation_time": 1791633629.4216337,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-899977.pt"
+                ]
+            },
+            {
+                "steps": 999978,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-999978.onnx",
+                "reward": 1.5993308725101607,
+                "creation_time": 1791633769.0612974,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-999978.pt"
+                ]
+            },
+            {
+                "steps": 1099950,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1099950.onnx",
+                "reward": 1.9329317598985356,
+                "creation_time": 1791633911.911196,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1099950.pt"
+                ]
+            },
+            {
+                "steps": 1199906,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1199906.onnx",
+                "reward": 1.624493945228017,
+                "creation_time": 1791634064.6461055,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1199906.pt"
+                ]
+            },
+            {
+                "steps": 1299946,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1299946.onnx",
+                "reward": 2.0594978469113507,
+                "creation_time": 1791634210.8617995,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1299946.pt"
+                ]
+            },
+            {
+                "steps": 1399899,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1399899.onnx",
+                "reward": -0.23370701393910817,
+                "creation_time": 1791634365.3283353,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1399899.pt"
+                ]
+            },
+            {
+                "steps": 1499936,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1499936.onnx",
+                "reward": 1.7624668720393226,
+                "creation_time": 1791634519.4540317,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1499936.pt"
+                ]
+            },
+            {
+                "steps": 1599895,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1599895.onnx",
+                "reward": 2.011034092772752,
+                "creation_time": 1791634677.3720193,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1599895.pt"
+                ]
+            },
+            {
+                "steps": 1699946,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1699946.onnx",
+                "reward": 2.1546356233417012,
+                "creation_time": 1791634830.8363063,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1699946.pt"
+                ]
+            },
+            {
+                "steps": 1799971,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1799971.onnx",
+                "reward": 2.0665148966338323,
+                "creation_time": 1791634988.5093052,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1799971.pt"
+                ]
+            },
+            {
+                "steps": 1899961,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1899961.onnx",
+                "reward": 2.187883270463269,
+                "creation_time": 1791635149.6968355,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1899961.pt"
+                ]
+            },
+            {
+                "steps": 1999977,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1999977.onnx",
+                "reward": 2.169304757164075,
+                "creation_time": 1791635314.2169464,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-1999977.pt"
+                ]
+            },
+            {
+                "steps": 2099977,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2099977.onnx",
+                "reward": 2.1071512803198797,
+                "creation_time": 1791635473.9140995,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2099977.pt"
+                ]
+            },
+            {
+                "steps": 2199897,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2199897.onnx",
+                "reward": 1.8374803729820997,
+                "creation_time": 1791635636.561931,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2199897.pt"
+                ]
+            },
+            {
+                "steps": 2299995,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2299995.onnx",
+                "reward": 1.8616165463191767,
+                "creation_time": 1791635799.1722984,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2299995.pt"
+                ]
+            },
+            {
+                "steps": 2399906,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2399906.onnx",
+                "reward": 2.095192697253965,
+                "creation_time": 1791635960.230449,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2399906.pt"
+                ]
+            },
+            {
+                "steps": 2499998,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2499998.onnx",
+                "reward": 2.0922523149005743,
+                "creation_time": 1791636120.2941964,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2499998.pt"
+                ]
+            },
+            {
+                "steps": 2599972,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2599972.onnx",
+                "reward": 2.1549770425145445,
+                "creation_time": 1791636287.2329125,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2599972.pt"
+                ]
+            },
+            {
+                "steps": 2699988,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2699988.onnx",
+                "reward": 2.1034789014075486,
+                "creation_time": 1791636449.595692,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2699988.pt"
+                ]
+            },
+            {
+                "steps": 2799986,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2799986.onnx",
+                "reward": 1.634813736192882,
+                "creation_time": 1791636613.3340707,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2799986.pt"
+                ]
+            },
+            {
+                "steps": 2899925,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2899925.onnx",
+                "reward": 2.0729892138337744,
+                "creation_time": 1791636777.0518425,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2899925.pt"
+                ]
+            },
+            {
+                "steps": 2999872,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2999872.onnx",
+                "reward": 2.0944699505022886,
+                "creation_time": 1791636944.478056,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-2999872.pt"
+                ]
+            },
+            {
+                "steps": 3099912,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3099912.onnx",
+                "reward": 2.0543031626557178,
+                "creation_time": 1791637102.1383526,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3099912.pt"
+                ]
+            },
+            {
+                "steps": 3199958,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3199958.onnx",
+                "reward": 2.159490599802562,
+                "creation_time": 1791637264.3870893,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3199958.pt"
+                ]
+            },
+            {
+                "steps": 3299992,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3299992.onnx",
+                "reward": 2.0626670174397432,
+                "creation_time": 1791637429.0612118,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3299992.pt"
+                ]
+            },
+            {
+                "steps": 3399986,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3399986.onnx",
+                "reward": 2.1433526544320967,
+                "creation_time": 1791637593.896629,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3399986.pt"
+                ]
+            },
+            {
+                "steps": 3499928,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3499928.onnx",
+                "reward": 2.067257434583436,
+                "creation_time": 1791637755.4132404,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3499928.pt"
+                ]
+            },
+            {
+                "steps": 3599989,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3599989.onnx",
+                "reward": 2.148464723876337,
+                "creation_time": 1791637920.2051606,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3599989.pt"
+                ]
+            },
+            {
+                "steps": 3699974,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3699974.onnx",
+                "reward": 2.2418962728232144,
+                "creation_time": 1791638085.3434236,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3699974.pt"
+                ]
+            },
+            {
+                "steps": 3799951,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3799951.onnx",
+                "reward": 2.1437842544852472,
+                "creation_time": 1791638252.389892,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3799951.pt"
+                ]
+            },
+            {
+                "steps": 3899989,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3899989.onnx",
+                "reward": 2.2592719239848003,
+                "creation_time": 1791638417.9028645,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3899989.pt"
+                ]
+            },
+            {
+                "steps": 3999985,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3999985.onnx",
+                "reward": 2.1420274113389577,
+                "creation_time": 1791638582.562617,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-3999985.pt"
+                ]
+            },
+            {
+                "steps": 4099905,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4099905.onnx",
+                "reward": 2.2114491067826747,
+                "creation_time": 1791638748.2180219,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4099905.pt"
+                ]
+            },
+            {
+                "steps": 4199887,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4199887.onnx",
+                "reward": 2.251810594994043,
+                "creation_time": 1791638917.14267,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4199887.pt"
+                ]
+            },
+            {
+                "steps": 4299944,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4299944.onnx",
+                "reward": 2.2191002115607263,
+                "creation_time": 1791639083.7868385,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4299944.pt"
+                ]
+            },
+            {
+                "steps": 4399983,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4399983.onnx",
+                "reward": 2.1646939043195976,
+                "creation_time": 1791639245.19017,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4399983.pt"
+                ]
+            },
+            {
+                "steps": 4499952,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4499952.onnx",
+                "reward": 1.8094198353150313,
+                "creation_time": 1791639411.8604894,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4499952.pt"
+                ]
+            },
+            {
+                "steps": 4599942,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4599942.onnx",
+                "reward": 2.100046489815243,
+                "creation_time": 1791639579.7649496,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4599942.pt"
+                ]
+            },
+            {
+                "steps": 4699935,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4699935.onnx",
+                "reward": 2.045644912496209,
+                "creation_time": 1791639748.4287498,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4699935.pt"
+                ]
+            },
+            {
+                "steps": 4799886,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4799886.onnx",
+                "reward": 2.046586284680026,
+                "creation_time": 1791639917.803551,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4799886.pt"
+                ]
+            },
+            {
+                "steps": 4899966,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4899966.onnx",
+                "reward": 2.1159926321018827,
+                "creation_time": 1791640084.599778,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4899966.pt"
+                ]
+            },
+            {
+                "steps": 4999906,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4999906.onnx",
+                "reward": 2.1740345354529396,
+                "creation_time": 1791640250.3233588,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-4999906.pt"
+                ]
+            },
+            {
+                "steps": 5099952,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5099952.onnx",
+                "reward": 2.200199707746506,
+                "creation_time": 1791640417.505076,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5099952.pt"
+                ]
+            },
+            {
+                "steps": 5199939,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5199939.onnx",
+                "reward": 2.1805669028465062,
+                "creation_time": 1791640585.5047166,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5199939.pt"
+                ]
+            },
+            {
+                "steps": 5299969,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5299969.onnx",
+                "reward": 2.194382968324202,
+                "creation_time": 1791640753.1915216,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5299969.pt"
+                ]
+            },
+            {
+                "steps": 5399921,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5399921.onnx",
+                "reward": 2.2355810969303818,
+                "creation_time": 1791640922.3291998,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5399921.pt"
+                ]
+            },
+            {
+                "steps": 5499963,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5499963.onnx",
+                "reward": 2.1710297273051355,
+                "creation_time": 1791641088.0519326,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5499963.pt"
+                ]
+            },
+            {
+                "steps": 5599970,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5599970.onnx",
+                "reward": 2.103848963784866,
+                "creation_time": 1791641256.7683198,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5599970.pt"
+                ]
+            },
+            {
+                "steps": 5650483,
+                "file_path": "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5650483.onnx",
+                "reward": 2.137368349266834,
+                "creation_time": 1791641338.4892356,
+                "auxillary_file_paths": [
+                    "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5650483.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5650483,
+            "file_path": "results\\testLessRaycast\\ArcadeCar.onnx",
+            "reward": 2.137368349266834,
+            "creation_time": 1791641338.4892356,
+            "auxillary_file_paths": [
+                "results\\testLessRaycast\\ArcadeCar\\ArcadeCar-5650483.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.0+cpu"
+    }
+}
