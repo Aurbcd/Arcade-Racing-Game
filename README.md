@@ -1,15 +1,28 @@
 # Machine Learning Transfer Research: Arcade Prototype
 
-<p align="center">
-    <img src="./Readme/arcade.png" width="576" height="324" alt="arcade game"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./Readme/arcade.png" alt="arcade game" style="width:100%; max-width:576px; height:auto;">
+    </td>
+    <td align="center" width="50%">
+      <video src="https://github.com/user-attachments/assets/cefbd420-7c4a-4510-b2f5-26bd3862e100" 
+             autoplay 
+             loop 
+             muted 
+             playsinline 
+             width="100%">
+      </video>
+    </td>
+  </tr>
+</table>
 
 Arcade prototype for the research project: [**Evaluating transfer learning for reinforcement learning agents across same-genre video games**](https://github.com/Machine-Learning-Transfert-Research) <br>
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
 <p align="center">
     <img src="./Readme/pullup_logo.jpg" width="200" height="200" alt="pullup logo"/>
-    <img src="./Readme/isart_logo.jpg"  width="200" height="200" alt="isart logo"/>
+    <img src="./Readme/isart_logo.jpg" width="200" height="200" alt="isart logo"/>
 </p>
 
 ## Table of Contents
@@ -23,6 +36,7 @@ This project was developed in **Unity** by a team of four to prototype an arcade
 
 ## Setup
 Warning: Make sure to have installed the python environment
+
 
 ### Start a training session
 In [**Anaconda Prompt**](https://www.anaconda.com/download) or [**MiniForge Prompt**](https://conda-forge.org/download/)
@@ -61,12 +75,18 @@ In **Unity**
 - [ML Agents Plugin](https://docs.unity3d.com/Packages/com.unity.ml-agents@4.0/manual/index.html) *(version 4.0.2)*
 
 ## Credits
+- [Aurelien CHAMBON](https://www.linkedin.com/in/aurelien-chambon/)
+- [Aurélien LHERBIER](https://www.linkedin.com/in/aur%C3%A9lien-lherbier-a344993b/)
+  
+
+
+
+
+### Initial work
 - [Bryan BACHELET](https://www.linkedin.com/in/bryan-bachelet/)
 - [Vincent DEVINE](https://www.linkedin.com/in/vincent-devine/)
 - [Matéo ERBISTI](https://www.linkedin.com/in/mat%C3%A9o-erbisti/)
 - [Omaya LISE](https://www.linkedin.com/in/omaya-lise/)
-- [Aurelien CHAMBON](https://www.linkedin.com/in/aurelien-chambon/)
-- [Aurélien LHERBIER](https://www.linkedin.com/in/aur%C3%A9lien-lherbier-a344993b/)
 
 ### Assets
 - [Dreamteck Spline by Dreamteck](https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926)
